@@ -1,7 +1,7 @@
 import {PopupWindowType} from '../data/enums/PopupWindowType';
 
 export class Settings {
-    public static readonly GITHUB_URL: string = 'https://github.com/SkalskiP';
+    public static readonly GITHUB_URL: string = 'https://github.com/li-yibing';
     public static readonly MEDIUM_URL: string = 'https://medium.com/@piotr.skalski92';
     public static readonly TWITCH_URL: string = 'https://www.twitch.tv/skalskip';
     public static readonly YOUTUBE_URL: string = 'https://www.youtube.com/watch?v=AWjKfjDGiYE';
